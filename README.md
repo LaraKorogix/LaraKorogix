@@ -41,5 +41,5 @@ Meu nome é Lara Korogi, tenho 19 anos, sou natural de Minas Gerais e atualmente
 
 ---
 
-<img src="https://raw.githubusercontent.com/LaraKorogix/LaraKorogix/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LaraKorogix/LaraKorogix/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
