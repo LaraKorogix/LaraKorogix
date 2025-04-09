@@ -39,13 +39,6 @@ Meu nome é Lara Korogi, tenho 19 anos, sou natural de Minas Gerais e atualmente
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaraKorogix&theme=onedark&hide_border=false" width="48%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraKorogix&theme=onedark&hide_border=false&layout=compact" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=LaraKorogix&limit=5&theme=onedark&combine_all_yearly_contributions=true" width="48%" />
-</div>
-
 ---
 
 ## 🐍 Snake Animation:
