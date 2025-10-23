@@ -29,14 +29,5 @@ Sou a Lara, 4º semestre de Ciência da Computação. Transformo ideias em códi
 
 ---
 
-## 📊 Estatísticas do GitHub:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaraKorogix&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaraKorogix&theme=onedark&hide_border=false" width="48%" />
-</div>
-
----
-
 <img src="https://raw.githubusercontent.com/LaraKorogix/LaraKorogix/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
