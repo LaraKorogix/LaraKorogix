@@ -1,13 +1,10 @@
 # 💫 Sobre mim:
 👩🏻‍💻 **Lara Korogi**<br><br>
-Meu nome é Lara Korogi, tenho 19 anos, sou natural de Minas Gerais e atualmente curso Ciência da Computação no CEUB (Centro Universitário de Brasília). Sou apaixonada por tecnologia e estou constantemente em busca de novos aprendizados, especialmente nas áreas de desenvolvimento de software e inovação. Compartilho meus conhecimentos e projetos com a comunidade por meio do meu LinkedIn e deste GitHub, onde registro minha evolução acadêmica e profissional.
-
+Sou a Lara, 4º semestre de Ciência da Computação. Transformo ideias em código e busco projetos práticos para evoluir como desenvolvedora.
 ---
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/larakorogi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/larakorogi) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:larakorogix@gmail.com)
 
 ---
 
