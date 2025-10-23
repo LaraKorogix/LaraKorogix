@@ -29,5 +29,4 @@ Sou a Lara, 4º semestre de Ciência da Computação. Transformo ideias em códi
 
 ---
 
-<img src="https://raw.githubusercontent.com/LaraKorogix/LaraKorogix/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
